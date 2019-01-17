@@ -2,13 +2,17 @@
   "name": "barkorem-ipsuruff",
   "version": "1.0.0",
   "description": "A lorem ipsum generator for dog-lovers!",
+  "repository": "lindsayspencer/npm-barkorem-ipsuruff",
   "main": "index.js",
   "scripts": {
     "test": "console.log('successuruff')"
   },
   "keywords": [
-    "text-generator"
+    "text-generator",
+    "npm",
+    "dogs",
+    "lorem ipsum"
   ],
   "author": "Lindsay Spencer",
-  "license": "ISC"
+  "license": "MIT"
 }
