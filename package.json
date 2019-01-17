@@ -1,0 +1,14 @@
+{
+  "name": "barkorem-ipsuruff",
+  "version": "1.0.0",
+  "description": "A lorem ipsum generator for dog-lovers!",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('successuruff')"
+  },
+  "keywords": [
+    "text-generator"
+  ],
+  "author": "Lindsay Spencer",
+  "license": "ISC"
+}
