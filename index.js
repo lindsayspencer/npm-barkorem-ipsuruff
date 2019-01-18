@@ -31,11 +31,11 @@ module.exports = function getBarksum(size){
         let bank = puppyWordBank;
         let text = "";
         let sentenceNumber;
-        if(size === "L"){
+        if(size.toUpperCase() === "L"){
             sentenceNumber = 6;
-        } else if(size === "S"){
+        } else if(size.toUpperCase() === "S"){
             sentenceNumber = 2;
-        } else if(size ==="M"){
+        } else if(size.toUpperCase() ==="M"){
             sentenceNumber = 4;
         } else {
             sentenceNumber = 4;
